@@ -35,3 +35,4 @@ Go on the project's root folder, then type:
 #### From Eclipse (Spring Tool Suite)
 
 Import as *Existing Maven Project* and run it as *Spring Boot App*.
+vuognne
